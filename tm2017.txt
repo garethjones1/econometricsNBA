@@ -1,0 +1,33 @@
+Golden State Warriors,.817
+San Antonio Spurs,.744
+Houston Rockets,.671
+Los Angeles Clippers,.622
+Utah Jazz,.622
+Toronto Raptors,.622
+Cleveland Cavaliers,.622
+Boston Celtics,.646
+Washington Wizards,.598
+Oklahoma City Thunder,.573
+Memphis Grizzlies,.524
+Miami Heat,.500
+Denver Nuggets,.488
+Charlotte Hornets,.439
+Chicago Bulls,.500
+Portland Trail Blazers,.500
+Milwaukee Bucks,.512
+Indiana Pacers,.512
+Minnesota Timberwolves,.378
+Atlanta Hawks,.524
+Detroit Pistons,.451
+New Orleans Pelicans,.415
+Dallas Mavericks,.402
+Sacramento Kings,.390
+New York Knicks,.378
+Phoenix Suns,.293
+Philadelphia 76ers,.341
+Los Angeles Lakers,.317
+Brooklyn Nets,.244
+Orlando Magic,.354
+
+
+Provided by <a href="https://www.sports-reference.com/sharing.html?utm_source=direct&utm_medium=Share&utm_campaign=ShareTool">Basketball-Reference.com</a>: <a href="https://www.basketball-reference.com/leagues/NBA_2017_ratings.html?sr&utm_source=direct&utm_medium=Share&utm_campaign=ShareTool#ratings">View Original Table</a><br>Generated 4/22/2025.

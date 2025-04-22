@@ -1,0 +1,33 @@
+Milwaukee Bucks,.732
+Golden State Warriors,.695
+Toronto Raptors,.707
+Utah Jazz,.610
+Houston Rockets,.646
+Portland Trail Blazers,.646
+Denver Nuggets,.659
+Boston Celtics,.598
+Oklahoma City Thunder,.598
+Indiana Pacers,.585
+Philadelphia 76ers,.622
+San Antonio Spurs,.585
+Los Angeles Clippers,.585
+Orlando Magic,.512
+Miami Heat,.476
+Brooklyn Nets,.512
+Detroit Pistons,.500
+Sacramento Kings,.476
+Dallas Mavericks,.402
+Minnesota Timberwolves,.439
+New Orleans Pelicans,.402
+Los Angeles Lakers,.451
+Charlotte Hornets,.476
+Memphis Grizzlies,.402
+Washington Wizards,.390
+Atlanta Hawks,.354
+Chicago Bulls,.268
+Phoenix Suns,.232
+New York Knicks,.207
+Cleveland Cavaliers,.232
+
+
+Provided by <a href="https://www.sports-reference.com/sharing.html?utm_source=direct&utm_medium=Share&utm_campaign=ShareTool">Basketball-Reference.com</a>: <a href="https://www.basketball-reference.com/leagues/NBA_2019_ratings.html?sr&utm_source=direct&utm_medium=Share&utm_campaign=ShareTool#ratings">View Original Table</a><br>Generated 4/22/2025.

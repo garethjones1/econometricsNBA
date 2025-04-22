@@ -1,0 +1,33 @@
+San Antonio Spurs,.817
+Golden State Warriors,.890
+Oklahoma City Thunder,.671
+Cleveland Cavaliers,.695
+Toronto Raptors,.683
+Los Angeles Clippers,.646
+Atlanta Hawks,.585
+Boston Celtics,.585
+Charlotte Hornets,.585
+Utah Jazz,.488
+Indiana Pacers,.549
+Miami Heat,.585
+Portland Trail Blazers,.537
+Detroit Pistons,.537
+Houston Rockets,.500
+Dallas Mavericks,.512
+Washington Wizards,.500
+Chicago Bulls,.512
+Orlando Magic,.427
+Memphis Grizzlies,.512
+Sacramento Kings,.402
+Denver Nuggets,.402
+New York Knicks,.390
+New Orleans Pelicans,.366
+Minnesota Timberwolves,.354
+Milwaukee Bucks,.402
+Phoenix Suns,.280
+Brooklyn Nets,.256
+Los Angeles Lakers,.207
+Philadelphia 76ers,.122
+
+
+Provided by <a href="https://www.sports-reference.com/sharing.html?utm_source=direct&utm_medium=Share&utm_campaign=ShareTool">Basketball-Reference.com</a>: <a href="https://www.basketball-reference.com/leagues/NBA_2016_ratings.html?sr&utm_source=direct&utm_medium=Share&utm_campaign=ShareTool#ratings">View Original Table</a><br>Generated 4/22/2025.
