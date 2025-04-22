@@ -1,0 +1,33 @@
+Oklahoma City Thunder,.829
+Cleveland Cavaliers,.780
+Boston Celtics,.744
+Minnesota Timberwolves,.598
+Los Angeles Clippers,.610
+Houston Rockets,.634
+Memphis Grizzlies,.585
+Denver Nuggets,.610
+New York Knicks,.622
+Golden State Warriors,.585
+Milwaukee Bucks,.585
+Detroit Pistons,.537
+Indiana Pacers,.610
+Los Angeles Lakers,.610
+Sacramento Kings,.488
+Miami Heat,.451
+Orlando Magic,.500
+Dallas Mavericks,.476
+Atlanta Hawks,.488
+Chicago Bulls,.476
+San Antonio Spurs,.415
+Portland Trail Blazers,.439
+Phoenix Suns,.439
+Toronto Raptors,.366
+Philadelphia 76ers,.293
+Brooklyn Nets,.317
+Utah Jazz,.207
+New Orleans Pelicans,.256
+Charlotte Hornets,.232
+Washington Wizards,.220
+
+
+Provided by <a href="https://www.sports-reference.com/sharing.html?utm_source=direct&utm_medium=Share&utm_campaign=ShareTool">Basketball-Reference.com</a>: <a href="https://www.basketball-reference.com/leagues/NBA_2025_ratings.html?sr&utm_source=direct&utm_medium=Share&utm_campaign=ShareTool#ratings">View Original Table</a><br>Generated 4/20/2025.

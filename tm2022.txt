@@ -1,0 +1,33 @@
+Boston Celtics,.622
+Phoenix Suns,.780
+Utah Jazz,.598
+Golden State Warriors,.646
+Memphis Grizzlies,.683
+Miami Heat,.646
+Dallas Mavericks,.634
+Milwaukee Bucks,.622
+Philadelphia 76ers,.622
+Toronto Raptors,.585
+Minnesota Timberwolves,.561
+Denver Nuggets,.585
+Cleveland Cavaliers,.537
+Atlanta Hawks,.524
+Brooklyn Nets,.537
+Charlotte Hornets,.524
+New York Knicks,.451
+Los Angeles Clippers,.512
+San Antonio Spurs,.415
+Chicago Bulls,.561
+New Orleans Pelicans,.439
+Los Angeles Lakers,.402
+Indiana Pacers,.305
+Washington Wizards,.427
+Sacramento Kings,.366
+Detroit Pistons,.280
+Orlando Magic,.268
+Oklahoma City Thunder,.293
+Houston Rockets,.244
+Portland Trail Blazers,.329
+
+
+Provided by <a href="https://www.sports-reference.com/sharing.html?utm_source=direct&utm_medium=Share&utm_campaign=ShareTool">Basketball-Reference.com</a>: <a href="https://www.basketball-reference.com/leagues/NBA_2022_ratings.html?sr&utm_source=direct&utm_medium=Share&utm_campaign=ShareTool#ratings">View Original Table</a><br>Generated 4/20/2025.

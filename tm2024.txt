@@ -1,0 +1,33 @@
+Boston Celtics,.780
+Oklahoma City Thunder,.695
+Minnesota Timberwolves,.683
+Denver Nuggets,.695
+New York Knicks,.610
+New Orleans Pelicans,.598
+Los Angeles Clippers,.622
+Phoenix Suns,.598
+Golden State Warriors,.561
+Indiana Pacers,.573
+Philadelphia 76ers,.573
+Milwaukee Bucks,.598
+Sacramento Kings,.561
+Dallas Mavericks,.610
+Cleveland Cavaliers,.585
+Orlando Magic,.573
+Houston Rockets,.500
+Miami Heat,.561
+Los Angeles Lakers,.573
+Chicago Bulls,.476
+Atlanta Hawks,.439
+Brooklyn Nets,.390
+Utah Jazz,.378
+San Antonio Spurs,.268
+Toronto Raptors,.305
+Memphis Grizzlies,.329
+Portland Trail Blazers,.256
+Detroit Pistons,.171
+Washington Wizards,.183
+Charlotte Hornets,.256
+
+
+Provided by <a href="https://www.sports-reference.com/sharing.html?utm_source=direct&utm_medium=Share&utm_campaign=ShareTool">Basketball-Reference.com</a>: <a href="https://www.basketball-reference.com/leagues/NBA_2024_ratings.html?sr&utm_source=direct&utm_medium=Share&utm_campaign=ShareTool#ratings">View Original Table</a><br>Generated 4/20/2025.

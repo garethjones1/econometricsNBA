@@ -1,0 +1,33 @@
+Boston Celtics,.695
+Cleveland Cavaliers,.622
+Philadelphia 76ers,.659
+Memphis Grizzlies,.622
+Milwaukee Bucks,.707
+New York Knicks,.573
+Denver Nuggets,.646
+Sacramento Kings,.585
+Phoenix Suns,.549
+Toronto Raptors,.500
+New Orleans Pelicans,.512
+Golden State Warriors,.537
+Chicago Bulls,.488
+Brooklyn Nets,.549
+Oklahoma City Thunder,.488
+Los Angeles Lakers,.524
+Atlanta Hawks,.500
+Los Angeles Clippers,.537
+Dallas Mavericks,.463
+Minnesota Timberwolves,.512
+Miami Heat,.537
+Utah Jazz,.451
+Washington Wizards,.427
+Orlando Magic,.415
+Indiana Pacers,.427
+Portland Trail Blazers,.402
+Charlotte Hornets,.329
+Houston Rockets,.268
+Detroit Pistons,.207
+San Antonio Spurs,.268
+
+
+Provided by <a href="https://www.sports-reference.com/sharing.html?utm_source=direct&utm_medium=Share&utm_campaign=ShareTool">Basketball-Reference.com</a>: <a href="https://www.basketball-reference.com/leagues/NBA_2023_ratings.html?sr&utm_source=direct&utm_medium=Share&utm_campaign=ShareTool#ratings">View Original Table</a><br>Generated 4/20/2025.

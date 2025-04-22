@@ -1,0 +1,33 @@
+Utah Jazz,.722
+Los Angeles Clippers,.653
+Phoenix Suns,.708
+Milwaukee Bucks,.639
+Philadelphia 76ers,.681
+Denver Nuggets,.653
+Brooklyn Nets,.667
+Los Angeles Lakers,.583
+Dallas Mavericks,.583
+New York Knicks,.569
+Atlanta Hawks,.569
+Portland Trail Blazers,.583
+Boston Celtics,.500
+Golden State Warriors,.542
+Memphis Grizzlies,.528
+Miami Heat,.556
+Indiana Pacers,.472
+New Orleans Pelicans,.431
+Toronto Raptors,.375
+Chicago Bulls,.431
+San Antonio Spurs,.458
+Washington Wizards,.472
+Charlotte Hornets,.458
+Sacramento Kings,.431
+Detroit Pistons,.278
+Minnesota Timberwolves,.319
+Houston Rockets,.236
+Cleveland Cavaliers,.306
+Orlando Magic,.292
+Oklahoma City Thunder,.306
+
+
+Provided by <a href="https://www.sports-reference.com/sharing.html?utm_source=direct&utm_medium=Share&utm_campaign=ShareTool">Basketball-Reference.com</a>: <a href="https://www.basketball-reference.com/leagues/NBA_2021_ratings.html?sr&utm_source=direct&utm_medium=Share&utm_campaign=ShareTool#ratings">View Original Table</a><br>Generated 4/20/2025.
